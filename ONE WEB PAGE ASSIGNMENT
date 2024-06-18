@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="eng">
+     <head>
+	      <title>Basic HTML</title>
+		  <meta charset="utf-8">
+	 </head>
+	 <body>
+	
+     <!--- NAV -->
+     <div>
+          <div>
+              <ul>
+                  <a href="#home"><li>HOME</li></a>
+                  <a href="#gallery"><li>GALLERY</li></a>
+                  <a href="#contanct"><li>CONTACT</li></a>
+              </u1>
+            </div>
+    </div>
+    <!-- END NAV -->
+
+    <!-- HOME -->
+    <div id="home">
+        <div>
+            <div>
+                <span>THE ACCOUNTANT CANSU</span>
+            </div>
+        </div>
+   </div>
+   <!-- END HOME -->
+
+    <!-- GALLERY -->
+    <section>
+        <div id="gallery">
+            <h1>Gallery</h1>
+            <div>
+
+                <!--PHOTO CONTAINER 1 -->
+                <div>
+                    <div>
+                        <img src="./images/thumb/thumbnail_1.png" alt="Image of the Accountant">
+                        <div>
+                            <h3>Click to Enlarge</h3>
+                            <p>We have several discount daily,book your accountant today..!</p>
+						</div>
+                    </div>
+				</div>
+                <!-- END PHOTO CONTAINER 1 -->
+
+                <!--PHOTO CONTAINER 2 -->
+                <div>
+                    <div>
+                        <img src="./images/thumb/thumbnail_2.png" alt="Image of the Accountant">
+                        <div>
+                            <h3>Click to Enlarge</h3>
+                            <p>We have good personality and hard working team.</p>
+						</div>
+                    </div>
+				</div>
+                <!-- END PHOTO CONTAINER 2 -->
+				
