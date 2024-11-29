@@ -37,7 +37,7 @@
                 <!--PHOTO CONTAINER 1 -->
                 <div>
                     <div>
-                        <img src="./images/thumb/thumbnail_1.png" alt="Image of the Accountant">
+                        <img src="./images/thumb/first.png" alt="Image of the Accountant">
                         <div>
                             <h3>Click to Enlarge</h3>
                             <p>We have several discount daily,book your accountant today..!</p>
@@ -49,7 +49,7 @@
                 <!--PHOTO CONTAINER 2 -->
                 <div>
                     <div>
-                        <img src="./images/thumb/thumbnail_2.png" alt="Image of the Accountant">
+                        <img src="./images/thumb/second.png" alt="Image of the Accountant">
                         <div>
                             <h3>Click to Enlarge</h3>
                             <p>We have good personality and hard working team.</p>
